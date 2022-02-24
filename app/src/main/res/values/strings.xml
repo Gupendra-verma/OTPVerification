@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OTP Verifcation</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="otp_description">We will send you an one time password on this mobile number</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="did_t_get_the_otp">Didn\'t get the OTP?</string>
+    <string name="resend_otp">resend Otp</string>
+    <string name="verify">verify</string>
+    <string name="get_otp">GET otp</string>
+    <string name="welcome_to_dashboard">Welcome to Dashboard</string>
+</resources>
